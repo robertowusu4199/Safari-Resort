@@ -1,0 +1,21 @@
+.container-start {
+    background-color: #DFBC7D;
+    color: maroon;
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+
+.container-1 {
+    background-color: #dfbc7d;
+    margin-top: 85px;
+    padding-top: 1px;
+}
+
+
+.col-md-6 {
+    margin-bottom: 20px
+}
+
